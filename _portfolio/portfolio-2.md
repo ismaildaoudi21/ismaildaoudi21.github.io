@@ -3,7 +3,7 @@ title: "SSIS project : analyze call center data"
 excerpt: "Build an ETL Data Pipeline with SSIS and SQL Server<br/><img src='/images/SSIS.png'>"
 collection: portfolio
 ---
-
+<img src='/images/SSIS.png'>
 A company receives daily calls from its customers and would like to know how things are going.
 The data is split across multiple files, and the company is unable to make good use of it.
 Our mission is to develop an ETL project with SSIS that will load data into the new enterprise data warehouse.
