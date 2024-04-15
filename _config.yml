@@ -16,7 +16,7 @@ description              : &description "I am a Data Engineer apprentice at EDF,
 As a Data Engineer, I work with various data sources and platforms, using Python and JavaScript to develop and maintain ETL pipelines, APIs, and data integrations. I am skilled in cloud architecture, specifically within the AWS ecosystem, having graduated from the AWS Academy. I also have insights into the DevOps realm, encompassing CI/CD, Docker, Kubernetes, and Infrastructure as Code, enabling me to manage the full spectrum of data engineering processes. Additionally, I perform a technology watch role in my company, staying abreast of tools like Talend, Informatica, Dataiku, Datahub, and Great Expectations, to ensure our data solutions employ industry-leading practices and tools.
 
 I am eager to connect with professionals who share my enthusiasm for data innovation and to explore opportunities that will allow me to push the boundaries of what's possible in data engineering. I am motivated by the challenge of solving complex data problems and delivering value to the organization and its customers. I am also committed to continuous learning and improvement, always seeking to expand my knowledge and skills in the data engineering field."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ismaildaoudi21.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,33 +25,32 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "photo_profile.jpg"
+  name             : "Ismail DAOUDI"
+  bio              : "Date Engineer"
+  location         : "Longjumeau, France"
+  employer         : "EDF"
+  uri              : https://ismaildaoudi21.github.io/
+  email            : ismail.daoudi07@gmail.com
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  # arxiv            : # URL - Update with the correct link to your profile
+  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  #impactstory      : # URL
+  #orcid            : "http://orcid.org/yourorcidurl"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate     : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  #bitbucket        : # Username - Update with your username on the site
+  #codepen          : # Username
+  #dribbble         : # Username
+  github           : https://github.com/ismaildaoudi21
+  #kaggle           : # Username  
+  #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -124,7 +123,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
