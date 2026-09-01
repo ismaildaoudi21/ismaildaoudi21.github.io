@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : 
-title                    : 
-title_separator          : 
-name                     : 
-description              : 
+locale                   : ""
+title                    : ""
+title_separator          : ""
+name                     : ""
+description              : ""
 
 As a Data Engineer, I work with various data sources and platforms, using Python and JavaScript to develop and maintain ETL pipelines, APIs, and data integrations. I am skilled in cloud architecture, specifically within the AWS ecosystem, having graduated from the AWS Academy. I also have insights into the DevOps realm, encompassing CI/CD, Docker, Kubernetes, and Infrastructure as Code, enabling me to manage the full spectrum of data engineering processes. Additionally, I perform a technology watch role in my company, staying abreast of tools like Talend, Informatica, Dataiku, Datahub, and Great Expectations, to ensure our data solutions employ industry-leading practices and tools.
 
@@ -25,13 +25,13 @@ repository               : "ismaildaoudi21/ismaildaoudi21.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : 
-  name             : 
-  bio              : 
-  location         : 
-  employer         : 
-  uri              : 
-  email            : 
+  avatar           : ""
+  name             : ""
+  bio              : ""
+  location         : ""
+  employer         : ""
+  uri              : ""
+  email            : ""
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
